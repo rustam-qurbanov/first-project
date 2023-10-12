@@ -1,12 +1,22 @@
 
-# Terminal, Git:
 
 ----
+
+# Шпаргалка по Markdown:
+
+
+[Github](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
+
+
+[Markdownguide](https://www.markdownguide.org/cheat-sheet/)
+
+
+-----
 
 # Шпаргалка. Базовые команды в консоли.
 
 
-# Навигация:
+## Навигация:
 
 
 - **pwd**     (от англ. _print working directory_, «показать рабочую папку»)     — покажи, в какой я папке;
@@ -38,7 +48,7 @@
 # Работа с файлами и папками.
 
 
-# Создание:
+## Создание:
 
 
 - **touch index.html**     (англ. _touch_, «коснуться»)     — создай файл *index.html* в текущей папке;
@@ -50,40 +60,33 @@
 - **mkdir second-project**    (от англ. *make directory*, «создать директорию»)      — создай папку с именем *second-project* в текущей папке.
 
 
-# Копирование и перемещение:
+## Копирование и перемещение:
 
 
 - **cp file.txt ~/my-dir**     (от англ. *copy*, «копировать»)     — скопируй файл в другое место;
 
 
-- **mv file.txt ~/my-dir **    (от англ. *move*, «переместить»)     — перемести файл или папку в другое место.
+- **mv file.txt ~/my-dir**    (от англ. *move*, «переместить»)     — перемести файл или папку в другое место.
 
 
-# Чтение:
+## Чтение:
 
 
-- **cat file.txt**     (от англ. *concatenate and print*, «объединить и распечатать»)     — распечатай содержимое текстового файла file.txt.
+- **cat file.txt**     (от англ. *concatenate and print*, «объединить и распечатать»)     — распечатай содержимое текстового файла *file.txt*.
 
 
-# Удаление:
+## Удаление:
 
 
-- **rm about.html**     (от англ. *remove*, «удалить»)     — удали файл about.html;
+- **rm about.html**     (от англ. *remove*, «удалить»)     — удали файл *about.html*;
 
 
-- **rmdir images**     (от англ. *remove directory*, «удалить директорию»)     — удали папку images;
+- **rmdir images**     (от англ. *remove directory*, «удалить директорию»)     — удали папку *images*;
 
 
-- **rm -r second-project**     (от англ. *remove*, «удалить» + *recursive*, «рекурсивный»)     — удали папку second-project и всё, что она содержит.
+- **rm -r second-project**     (от англ. *remove*, «удалить» + *recursive*, «рекурсивный»)     — удали папку *second-project* и всё, что она содержит.
 
 
 ----
 
-# Шпаргалка по Markdown:
-
-
-[Github](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
-
-
-[Markdownguide](https://www.markdownguide.org/cheat-sheet/)
 
